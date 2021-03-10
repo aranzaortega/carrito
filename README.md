@@ -1,3 +1,3 @@
 # Carrito para curso de JavaScript
 
-![](img\carrito.gif)
+![alt text](img\carrito.gif)
