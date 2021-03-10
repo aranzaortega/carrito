@@ -17,7 +17,11 @@ h4 {
 header {
     padding: 20px 0 0 0;
     background: white;
-    text-align: center;
+    text-align: center;  
+    position: fixed;
+    top: 0;
+    width: 100%;
+    z-index: 100;
 }
 @media (min-width: 750px) {
     header {
@@ -40,6 +44,7 @@ ul {
     background-image:url(../img/hero.jpg);
     height: 350px;
     background-size: cover;
+    margin-top: 80px;
 }
 #encabezado {
     margin: 30px 0;
